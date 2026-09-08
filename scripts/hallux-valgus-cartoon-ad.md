@@ -56,7 +56,9 @@ Va sur nyrofit.com, prends NyroTape. Ton pied te dit merci.
 - Anchor personnage : pied cartoon 3D, GPT Image 2, 2K, 9:16.
 - 16 images de scène, GPT Image 2 2K 9:16, référencées sur l'anchor.
 - 16 clips Kling 3.0, 5 s, 1080p, 9:16, muets (start frame = image de la scène).
-- Voix off : Polaris VoiceOver, voix Aria, tier premium, 16 fichiers (un par scène).
+- Voix off v1 : Polaris VoiceOver, voix Aria, tier premium.
+- Voix off v2 (retenue) : Seed Audio (Higgsfield), voix clonée depuis un échantillon fourni de 11,9 s ; silences coupés, loudnorm I=-16 LUFS, débit accéléré de 8 %.
 - Musique : Suno v5.5 instrumentale, marimba/plucks 100 bpm, lit à -16 dB.
 - Montage ffmpeg : chaque clip calé sur la durée de sa ligne VO (ping-pong ou ralenti quand la VO dépasse 5 s), musique en fond, sous-titres brûlés.
-- Livrables : nyrotape_ad.mp4 (sans sous-titres), nyrotape_ad_subs.mp4 (sous-titres brûlés), nyrotape_ad.srt.
+- Livrables v1 (voix Aria, 84 s) : nyrotape_ad.mp4, nyrotape_ad_subs.mp4, nyrotape_ad.srt.
+- Livrables v2 (voix clonée, 91 s) : nyrotape_ad_v2.mp4, nyrotape_ad_v2_subs.mp4, nyrotape_ad_v2.srt.
