@@ -1,7 +1,7 @@
 # Cartoon Ads — "Ton pied gauche" (hallux valgus / tape pré-découpé)
 Format Cartoon Ads Framework · 9:16 · talking character = le pied lui-même · 14 scènes de 5 s (~70 s, coupable à 45 s)
 
-Placeholders : [MARQUE] [PRIX] [SITE] [X AVIS]
+Placeholders : NyroTape [PRIX] nyrofit.com [X AVIS]
 
 ## STEP 1 — Character anchor
 Personnage : un pied gauche cartoon 3D stylisé, corps entier = le pied, gros orteil dévié vers l'extérieur avec une bosse rose à la base. Yeux ronds expressifs et sourcils sur le cou-de-pied, petite bouche, deux bras fins. Palette douce (peau beige clair, bosse rose, accents bleu #3E8FD0 = couleur du tape). Style 3D cartoon rond, contours doux, lumière chaude, fond uni pastel. Anchor à réutiliser dans TOUTES les scènes.
@@ -24,7 +24,7 @@ Sauf que là, c'est déjà découpé. La forme exacte, prête à poser. Tu colle
 
 Imagine une journée entière sans penser à moi. Tes chaussures qui reviennent. Le soir, tu marches encore.
 
-Va sur [SITE], prends [MARQUE]. Ton pied te dit merci.
+Va sur nyrofit.com, prends NyroTape. Ton pied te dit merci.
 
 ## STEP 3 — Découpage scènes (1 image / scène)
 
@@ -42,12 +42,21 @@ Va sur [SITE], prends [MARQUE]. Ton pied te dit merci.
 | 10 | MÉCANISME (problème) | « Une attelle de nuit me tient pendant que tu dors. Mais c'est le jour que je me déforme. » | Split : nuit = pied endormi avec attelle / jour = pied qui marche sans rien, orteil qui dévie. |
 | 11 | MÉCANISME (solution) | « Il faut me tenir dans l'axe pendant que tu marches. C'est ce que fait un tape élastique. Il tire doucement l'orteil vers l'intérieur et pose un coussin sur la bosse. » | Le tape bleu pré-découpé se pose sur le dessus du pied, flèche bleue de traction vers l'intérieur, halo doux sur la bosse. |
 | 12 | PREUVE | « C'est la technique que les kinés utilisent depuis des années. [X AVIS] personnes l'ont déjà mise sur leur pied. » | Le pied à côté d'un kiné cartoon, mur d'avis 5 étoiles en arrière-plan. |
-| 13 | PRODUIT | « Sauf que là, c'est déjà découpé. Tu colles, c'est fini en dix secondes. Pas de ciseaux, pas de tuto. » | Bande bleue pré-découpée en forme de T qui sort de la boîte [MARQUE] et se colle seule, chrono "10 s". |
+| 13 | PRODUIT | « Sauf que là, c'est déjà découpé. Tu colles, c'est fini en dix secondes. Pas de ciseaux, pas de tuto. » | Bande bleue pré-découpée en forme de T qui sort de la boîte NyroTape et se colle seule, chrono "10 s". |
 | 14 | PRODUIT | « Ça tient cinq jours, douche comprise, et ça se voit pas sous la chaussette. » | Triptyque : douche, marche, chaussette enfilée par-dessus — le tape invisible. Compteur "Jour 5". |
 | 15 | RÊVE | « Imagine une journée entière sans penser à moi. Tes chaussures qui reviennent. Le soir, tu marches encore. » | Le pied danse dans une chaussure élégante, coucher de soleil, bosse apaisée, sourire. |
-| 16 | CTA | « Va sur [SITE], prends [MARQUE]. Ton pied te dit merci. » | Pack shot [MARQUE] avec les bandes bleues, le pied lève le pouce, bouton CTA. |
+| 16 | CTA | « Va sur nyrofit.com, prends NyroTape. Ton pied te dit merci. » | Pack shot NyroTape avec les bandes bleues, le pied lève le pouce, bouton CTA. |
 
 ## Garde-fous claims (Meta / TikTok)
 - Pas de « corrige », « guérit », « évite l'opération », pas d'avant/après de pied réel.
 - Rester sur : maintien dans l'axe, soulagement de la pression, confort, frottement.
 - Mention finale : « Ne remplace pas un avis médical ».
+
+## Production réalisée (Polaris)
+- Anchor personnage : pied cartoon 3D, GPT Image 2, 2K, 9:16.
+- 16 images de scène, GPT Image 2 2K 9:16, référencées sur l'anchor.
+- 16 clips Kling 3.0, 5 s, 1080p, 9:16, muets (start frame = image de la scène).
+- Voix off : Polaris VoiceOver, voix Aria, tier premium, 16 fichiers (un par scène).
+- Musique : Suno v5.5 instrumentale, marimba/plucks 100 bpm, lit à -16 dB.
+- Montage ffmpeg : chaque clip calé sur la durée de sa ligne VO (ping-pong ou ralenti quand la VO dépasse 5 s), musique en fond, sous-titres brûlés.
+- Livrables : nyrotape_ad.mp4 (sans sous-titres), nyrotape_ad_subs.mp4 (sous-titres brûlés), nyrotape_ad.srt.
