@@ -1,44 +1,53 @@
-# Cartoon Ads — "Robert, le pied qui n'en peut plus"
-Format 9:16 · 35 s · objets/corps qui parlent (talking foot) · ton comique, douleur réelle
+# Cartoon Ads — "Ton pied gauche" (hallux valgus / tape pré-découpé)
+Format Cartoon Ads Framework · 9:16 · talking character = le pied lui-même · 14 scènes de 5 s (~70 s, coupable à 45 s)
 
-Placeholders : [MARQUE], [PRIX], [SITE], [GARANTIE]
-Produit : tape pré-découpé pour hallux valgus (oignon).
+Placeholders : [MARQUE] [PRIX] [SITE] [X AVIS]
 
-## Personnages
-- ROBERT : pied gauche cartoon 3D, gros orteil dévié vers l'extérieur, bosse rouge palpitante à la base. Yeux expressifs, sourcils, bouche sur le cou-de-pied. Voix masculine 45 ans, fatiguée, ironique.
-- L'ESCARPIN : chaussure à talon, voix féminine snob, antagoniste.
-- LE TAPE : bande de kinesio pré-découpée, bleu clair, voix calme et posée, arrive en héros.
+## STEP 1 — Character anchor
+Personnage : un pied gauche cartoon 3D stylisé, corps entier = le pied, gros orteil dévié vers l'extérieur avec une bosse rose à la base. Yeux ronds expressifs et sourcils sur le cou-de-pied, petite bouche, deux bras fins. Palette douce (peau beige clair, bosse rose, accents bleu #3E8FD0 = couleur du tape). Style 3D cartoon rond, contours doux, lumière chaude, fond uni pastel. Anchor à réutiliser dans TOUTES les scènes.
 
-## Script
+## STEP 2 — Voiceover (bloc unique, tel qu'il est dit)
 
-| # | Time | Visuel | Audio / VO | Texte écran |
-|---|---|---|---|---|
-| 1 | 0.0–2.5 | Intérieur d'une chaussure, noir, une lampe torche éclaire ROBERT écrasé contre la paroi. Sa bosse pulse en rouge. | ROBERT (criant) : « Madame. MADAME. Ça fait 6 heures que mon orteil est plié en deux. » | Ton pied t'appelle. |
-| 2 | 2.5–6.0 | Zoom sur la bosse qui gonfle et vire rouge vif à chaque pas. Effet onde de choc à chaque impact. | ROBERT : « Chaque pas, c'est un coup de couteau. Là. Juste là. » | L'oignon, ça ne se calme pas tout seul |
-| 3 | 6.0–11.0 | Montage rapide : ROBERT refuse une basket, un escarpin, une botte. Pile de chaussures jetées dans un placard. | ROBERT : « J'ai un placard entier de chaussures que je ne peux plus mettre. 400 balles de cuir au cimetière. » | 12 paires. Aucune ne va. |
-| 4 | 11.0–14.0 | Nuit, lit, ROBERT dépasse de la couette, palpitant. Il ne dort pas. | ROBERT : « Et la nuit ? Elle me lance. Je compte les moutons, ils boitent tous. » | Même au repos |
-| 5 | 14.0–17.5 | L'ESCARPIN se penche : « Achète des orthèses ! » Un écarteur en silicone glisse et tombe. Une attelle de nuit géante fait un bruit de chantier. | ESCARPIN : « T'as qu'à mettre une attelle ! » ROBERT : « Ça glisse, c'est énorme, et je ne sors pas avec un exosquelette. » | Écarteurs, attelles… ça tient pas |
-| 6 | 17.5–21.0 | Porte qui s'ouvre, lumière. LE TAPE arrive, pré-découpé, forme parfaite, se pose seul sur ROBERT en 2 gestes. | TAPE : « Bouge pas. Pré-découpé. Pas de ciseaux, pas de mode d'emploi. » | Le tape pré-découpé [MARQUE] |
-| 7 | 21.0–25.5 | Macro produit : la bande épouse le gros orteil, tire doucement l'orteil dans l'axe. Flèche animée = traction. Chaussette puis chaussure par-dessus : invisible. | VO : « Il maintient l'orteil dans l'axe, amortit la bosse, et il disparaît sous la chaussette. » | Invisible sous la chaussure |
-| 8 | 25.5–29.0 | Split screen : douche, sport, journée de boulot. Compteur "Jour 1 → Jour 5", le tape tient. | VO : « Il tient jusqu'à 5 jours. Douche comprise. » | Résiste à l'eau · 5 jours |
-| 9 | 29.0–32.5 | ROBERT enfile enfin l'ESCARPIN, tous les deux dansent. Bosse calmée, plus de pulsation rouge. | ROBERT : « Première soirée depuis 2 ans où c'est pas mon pied qui décide. » | Remets tes chaussures |
-| 10 | 32.5–35.0 | Pack shot [MARQUE], boîte + bandes pré-découpées. Bouton CTA qui pulse. | VO : « [MARQUE]. [PRIX], livré. [GARANTIE]. » | Commande sur [SITE] |
+T'as une bosse là, sur le côté du pied ? Écoute-moi deux secondes. Je suis ton pied gauche.
 
-## Hooks alternatifs (à tester en 0–3 s)
-- A : ROBERT sort d'une chaussure, regarde caméra : « Tu vas encore me faire rentrer là-dedans ? »
-- B : Gros plan bosse qui grossit à vue d'œil, ROBERT : « Chaque année elle pousse. Elle ne recule jamais. »
-- C : ROBERT sur un pèse-personne : « 70 kilos. Sur MON orteil. Toute la journée. »
-- D : Placard de chaussures, ROBERT : « Coût de mon oignon : 12 paires que je peux plus mettre. »
+Chaque matin tu me pousses dans une chaussure trop serrée. Au bout d'une heure, ça brûle. Le soir, tu boites jusqu'au canapé. Et t'as douze paires dans le placard que tu mets plus jamais.
 
-## Notes de prod
-- Style : 3D cartoon type Pixar, textures douces, lumière chaude, personnage pied stylisé et non gore (pas de réalisme médical).
-- Rythme : coupe toutes les 1,5–2,5 s, zéro plan mort.
-- Sound design : craquement à chaque pas de la partie douleur, "pop" doux à la pose du tape, musique upbeat à partir du plan 6.
-- Sous-titres brûlés, gros, centrés bas, 90 % du visionnage sans son.
-- Voix ROBERT : ton stand-up, pas plaintif — la douleur passe mieux en comédie.
+Et t'as tout essayé. Les écarteurs en silicone. L'attelle de nuit. Les semelles à quarante euros. Rien n'a tenu. C'est pas ta faute. Personne s'est occupé de la vraie cause.
+
+Le problème, c'est pas la bosse. La bosse, c'est juste le résultat. Mon gros orteil part vers l'extérieur un peu plus chaque année, parce que rien ne le retient quand tu marches. Soixante-dix kilos qui appuient dessus, des milliers de pas par jour. Une attelle de nuit me tient pendant que tu dors. Mais c'est le jour que je me déforme.
+
+Donc la vraie solution est simple. Il faut me tenir dans l'axe pendant que tu marches. C'est exactement ce que fait un tape élastique. Il se colle sur le dessus du pied, il tire doucement l'orteil vers l'intérieur à chaque pas, et il pose un coussin sur la bosse pour qu'elle frotte plus contre la chaussure.
+
+C'est la technique que les kinés utilisent depuis des années. [X AVIS] personnes l'ont déjà mise sur leur pied.
+
+Sauf que là, c'est déjà découpé. La forme exacte, prête à poser. Tu colles, c'est fini en dix secondes. Pas de ciseaux, pas de tuto. Ça tient cinq jours, douche comprise, et ça se voit pas sous la chaussette.
+
+Imagine une journée entière sans penser à moi. Tes chaussures qui reviennent. Le soir, tu marches encore.
+
+Va sur [SITE], prends [MARQUE]. Ton pied te dit merci.
+
+## STEP 3 — Découpage scènes (1 image / scène)
+
+| # | Bloc | Ligne VO | Image |
+|---|---|---|---|
+| 1 | HOOK | « T'as une bosse là, sur le côté du pied ? Écoute-moi deux secondes. » | Le pied cartoon face caméra, plein cadre, il pointe sa propre bosse rose. Fond pastel uni. |
+| 2 | HOOK | « Je suis ton pied gauche. » | Plan plus large, le pied croise les bras, sourcil levé, ton complice. |
+| 3 | PROBLÈME | « Chaque matin tu me pousses dans une chaussure trop serrée. Au bout d'une heure, ça brûle. » | Vue intérieur de chaussure, le pied écrasé contre la paroi, bosse rouge qui rayonne. |
+| 4 | PROBLÈME | « Le soir, tu boites jusqu'au canapé. » | Silhouette cartoon qui boite dans un salon, le pied traîné derrière, étoiles de douleur. |
+| 5 | PROBLÈME | « Et t'as douze paires dans le placard que tu mets plus jamais. » | Placard ouvert, pile de chaussures poussiéreuses, le pied regarde de dos, épaules basses. |
+| 6 | VILLAIN | « Et t'as tout essayé. Les écarteurs. L'attelle de nuit. Les semelles à quarante euros. Rien n'a tenu. » | Table avec écarteur silicone, attelle de nuit énorme, semelles, tous barrés d'une croix. Le pied les regarde, agacé. |
+| 7 | VILLAIN | « C'est pas ta faute. Personne s'est occupé de la vraie cause. » | Gros plan du pied, expression calme, ton de révélation, léger éclairage doux. |
+| 8 | MÉCANISME (problème) | « Le problème, c'est pas la bosse. Mon gros orteil part vers l'extérieur, parce que rien ne le retient quand tu marches. » | Schéma cartoon : os du gros orteil en surimpression, flèche rouge qui pousse l'orteil vers l'extérieur. |
+| 9 | MÉCANISME (problème) | « Soixante-dix kilos qui appuient dessus, des milliers de pas par jour. » | Le pied porte un poids géant "70 kg" au-dessus de lui, il tremble, l'orteil s'écarte. |
+| 10 | MÉCANISME (problème) | « Une attelle de nuit me tient pendant que tu dors. Mais c'est le jour que je me déforme. » | Split : nuit = pied endormi avec attelle / jour = pied qui marche sans rien, orteil qui dévie. |
+| 11 | MÉCANISME (solution) | « Il faut me tenir dans l'axe pendant que tu marches. C'est ce que fait un tape élastique. Il tire doucement l'orteil vers l'intérieur et pose un coussin sur la bosse. » | Le tape bleu pré-découpé se pose sur le dessus du pied, flèche bleue de traction vers l'intérieur, halo doux sur la bosse. |
+| 12 | PREUVE | « C'est la technique que les kinés utilisent depuis des années. [X AVIS] personnes l'ont déjà mise sur leur pied. » | Le pied à côté d'un kiné cartoon, mur d'avis 5 étoiles en arrière-plan. |
+| 13 | PRODUIT | « Sauf que là, c'est déjà découpé. Tu colles, c'est fini en dix secondes. Pas de ciseaux, pas de tuto. » | Bande bleue pré-découpée en forme de T qui sort de la boîte [MARQUE] et se colle seule, chrono "10 s". |
+| 14 | PRODUIT | « Ça tient cinq jours, douche comprise, et ça se voit pas sous la chaussette. » | Triptyque : douche, marche, chaussette enfilée par-dessus — le tape invisible. Compteur "Jour 5". |
+| 15 | RÊVE | « Imagine une journée entière sans penser à moi. Tes chaussures qui reviennent. Le soir, tu marches encore. » | Le pied danse dans une chaussure élégante, coucher de soleil, bosse apaisée, sourire. |
+| 16 | CTA | « Va sur [SITE], prends [MARQUE]. Ton pied te dit merci. » | Pack shot [MARQUE] avec les bandes bleues, le pied lève le pouce, bouton CTA. |
 
 ## Garde-fous claims (Meta / TikTok)
-- Ne pas promettre correction, guérison, ni éviter la chirurgie.
-- Formuler en ressenti et fonction : « maintient l'orteil dans l'axe », « soulage la pression », « confort ».
-- Éviter avant/après de zones corporelles réelles (ici tout est cartoon : OK).
-- Ajouter mention « Ne remplace pas un avis médical » en fin de vidéo ou en description.
+- Pas de « corrige », « guérit », « évite l'opération », pas d'avant/après de pied réel.
+- Rester sur : maintien dans l'axe, soulagement de la pression, confort, frottement.
+- Mention finale : « Ne remplace pas un avis médical ».
