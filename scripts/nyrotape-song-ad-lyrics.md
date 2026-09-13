@@ -39,16 +39,29 @@ Tes chaussures qui reviennent, le soir tu peux danser
 Nyrofit point com, c'est là que ça se passe
 Prends ton nyrotape, et laisse la douleur à sa place
 
-## Répartition des clips
-Durées calculées au prorata du nombre de lignes par bloc (unité = 69,24 s / 22 lignes = 3,15 s).
+## Répartition des clips (calée sur la chanson)
+Timings relevés par transcription de la piste Suno, pas estimés : chaque plan démarre sur l'attaque de sa ligne.
 
-| Bloc | Clips | Durée par clip |
+| Clip | Entrée | Ligne chantée |
 |---|---|---|
-| Hook | 1, 2 | 3,15 s |
-| Couplet 1 | 3, 4, 5 | 4,20 s |
-| Couplet 2 | 6, 7 | 6,29 s |
-| Pont | 8, 9, 10 | 4,20 s |
-| Refrain | 11, 12, 13, 14 | 3,15 s |
-| Final | 15, 16 | 6,29 s |
+| 1 | 0,00 | Hé, regarde-moi, la bosse sur le côté |
+| 2 | 4,80 | Je suis ton pied gauche |
+| 3 | 9,76 | Chaque matin tu me serres dans du cuir |
+| 4 | 14,30 | Le soir tu boites |
+| 5 | 16,90 | Douze paires au placard |
+| 6 | 19,18 | T'as tout essayé |
+| 7 | 23,86 | C'est pas ta faute |
+| 8 | 28,98 | C'est pas la bosse |
+| 9 | 31,92 | Soixante-dix kilos |
+| 10 | 34,28 | La nuit l'attelle te tient |
+| 11 | 39,22 | Nyrotape, déjà découpé |
+| 12 | 41,56 | La technique des kinés |
+| 13 | 43,96 | Dix secondes, cinq jours |
+| 14 | 46,46 | Invisible dans ta chaussure |
+| 15 | 49,02 | Imagine une journée |
+| 16 | 59,50 | Nyrofit point com |
 
-Le calage est proportionnel, pas à l'oreille : recaler les points de coupe sur les temps forts dans CapCut avant diffusion.
+Les plans 15 et 16 couvrent chacun environ 10 s (rallongés en aller-retour) : ce sont les deux seuls endroits où un plan supplémentaire améliorerait le rythme.
+
+## Livrables
+- nyrotape_song_ad_v2.mp4 · nyrotape_song_ad_v2_subs.mp4 · nyrotape_song_ad_v2.srt
